@@ -6,7 +6,7 @@ Automatically checks accounts creation date using HTTP requests
 - [Building a binary](#building-a-binary)
 
 ## Usage
-1. **Download** a binary for your OS
+1. **Download** a binary for your OS from [Releases](https://github.com/WhateverNick7/roblox-account-age/releases/latest)
 2. **Run** downloaded binary
 3. **Drag and Drop** accounts list file or manually type path to the file
 4. **Press Enter** to confirm the path
